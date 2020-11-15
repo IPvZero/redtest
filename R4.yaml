@@ -1,0 +1,10 @@
+---
+OSPF:
+    process_id: "1"
+    networks:
+      - number: 10.0.0.4
+        mask: 0.0.0.3
+        area: "0"
+      - number: 10.0.0.12
+        mask: 0.0.0.3
+        area: "0"
