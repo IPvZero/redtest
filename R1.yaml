@@ -10,4 +10,4 @@ OSPF:
         area: "0"
       - number: 8.8.8.8
         mask: 0.0.0.0
-        area: 12
+        area: 14
